@@ -1,5 +1,5 @@
-Meu primeiro sistema no git.
+Meu SEGUNDO sistema no git.
 
 Praticando...
 
-Alteração feita no master.
+Alguma linha na MASTER
