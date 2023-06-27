@@ -1,5 +1,1 @@
-Meu SEGUNDO sistema no git.
-
-Praticando...
-
-Alguma linha na MASTER
+Meu primeiro sistema no git (Alterado e atualizado)
